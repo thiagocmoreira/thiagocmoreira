@@ -27,4 +27,8 @@ let thiago = {
   others: ['Git', 'Docker basics', 'AI/ML concepts']
 }
 ```
+<!---
+![Thiago's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiagocmoreira)
+-->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocmoreira&count_private=true)
