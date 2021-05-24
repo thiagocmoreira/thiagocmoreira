@@ -6,7 +6,7 @@
 </h2>
 
 [![Linkedin: thiagocmoreira](https://img.shields.io/badge/-thiagocmoreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagocmoreira/)](https://www.linkedin.com/in/thiagocmoreira/)
-[![Telegram: thiagueras](https://img.shields.io/badge/-thiagocmoreira-555?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thiagueras)](https://t.me/thiagocmoreira)
+[![Telegram: thiagueras](https://img.shields.io/badge/-thiagueras-555?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thiagueras)](https://t.me/thiagocmoreira)
 [![Spotify: thiagocmoreira](https://img.shields.io/badge/thiagocmoreira-1ED760?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/thiagocmoreira?si=0gFrvBxpQlSlwuoP4Une6Q)](https://open.spotify.com/user/thiagocmoreira?si=0gFrvBxpQlSlwuoP4Une6Q)
 [![E-mail: thiago.cmoreira@yahoo.com.br](https://img.shields.io/badge/email_me-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:thiago.moreira@yahoo.com.br)](mailto:thiago.moreira@yahoo.com.br)
 
