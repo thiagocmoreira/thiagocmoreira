@@ -10,9 +10,9 @@
 [![Spotify: thiagocmoreira](https://img.shields.io/badge/thiagocmoreira-1ED760?style=for-the-badge&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/thiagocmoreira?si=0gFrvBxpQlSlwuoP4Une6Q)](https://open.spotify.com/user/thiagocmoreira?si=0gFrvBxpQlSlwuoP4Une6Q)
 [![E-mail: thiago.cmoreira@yahoo.com.br](https://img.shields.io/badge/email_me-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white&link=mailto:thiago.moreira@yahoo.com.br)](mailto:thiago.moreira@yahoo.com.br)
 
-- 💼 I’m Full Stack Developer at [Neoway](https://www.neoway.com.br/)
-- 🎓 I’m Software Engineer ([UnB](https://www.unb.br/))
-- 👍🏽 I’m interested in web development and UI/UX, but i want to learn mobile development in the near future
+- 💼 I’m Software Engineer at [Olx Brasil](https://github.com/olxbr)
+- 🎓 Bachelor's degree in Software Engineering ([UnB](https://www.unb.br/))
+- 👍🏽 I’m interested in web development, but i want to learn mobile development in the near future
 - 🌱 I’m currently learning NLP, Machine Learning and Deep Learning
 - 🇧🇷 I’m brazilian
 - 👨🏽‍💻 About my skills:
